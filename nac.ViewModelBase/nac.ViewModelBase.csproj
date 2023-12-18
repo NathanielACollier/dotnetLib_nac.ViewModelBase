@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
 	  <LangVersion>latestmajor</LangVersion>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Description>Base class for View Models that implement INotifyPropertyChanged</Description>
+	  <Version>1.0.1.0</Version>
   </PropertyGroup>
 
 </Project>
